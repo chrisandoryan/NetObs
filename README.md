@@ -1,5 +1,5 @@
-# Noveao Client
-> Listen and sniff NetWare Core Protocol messages
+# Noveao
+> Listen and capture NetWare Core Protocol messages
 
 A utility for SLC assistants to listen for inbound NCP/Novell/nwsndmsg.exe messages on their computer. This program is developed as a companion client application for Peetrik LINE Bot (@ylg6617f). The Bot should help and notify SLC assistants by sending a message to their LINE account when a NCP/Novell/nwsndmsg.exe message arrives.
 
