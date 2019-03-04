@@ -1,4 +1,4 @@
-# NetObs Node
+# Noveao Client
 > Listen and sniff NetWare Core Protocol messages
 
 A utility for SLC assistants to listen for inbound NCP/Novell/nwsndmsg.exe messages on their computer. This program is developed as a companion client application for Peetrik LINE Bot (@ylg6617f). The Bot should help and notify SLC assistants by sending a message to their LINE account when a NCP/Novell/nwsndmsg.exe message arrives.
@@ -12,8 +12,8 @@ A utility for SLC assistants to listen for inbound NCP/Novell/nwsndmsg.exe messa
 Windows:
 
 ```sh
-git clone https://github.com/chrisandoryan/NetObs
-cd NetObs && python observe.py
+git clone https://github.com/chrisandoryan/Noveao
+cd Noveao && python noveao.py
 ```
 
 ## Usage example
